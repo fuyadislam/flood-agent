@@ -1,0 +1,450 @@
+{
+ "dhaka": {
+  "lat": 23.91,
+  "lon": 90.51,
+  "watch": 586.49,
+  "warning": 735.4803999999999,
+  "danger": 841.7968000000001
+ },
+ "gazipur": {
+  "lat": 23.9,
+  "lon": 90.52,
+  "watch": 586.49,
+  "warning": 735.4803999999999,
+  "danger": 841.7968000000001
+ },
+ "narayanganj": {
+  "lat": 23.52,
+  "lon": 90.5,
+  "watch": 8973.29,
+  "warning": 10595.447200000002,
+  "danger": 11686.458
+ },
+ "narsingdi": {
+  "lat": 23.92,
+  "lon": 90.82,
+  "watch": 7480.7,
+  "warning": 8789.23,
+  "danger": 9637.29
+ },
+ "manikganj": {
+  "lat": 23.76,
+  "lon": 90.0,
+  "watch": 44.81,
+  "warning": 56.81,
+  "danger": 65.22
+ },
+ "munshiganj": {
+  "lat": 23.44,
+  "lon": 90.53,
+  "watch": 9224.71,
+  "warning": 10863.25,
+  "danger": 11993.99
+ },
+ "faridpur": {
+  "lat": 23.71,
+  "lon": 89.94,
+  "watch": 84721.73,
+  "warning": 104471.03,
+  "danger": 118575.84
+ },
+ "rajbari": {
+  "lat": 23.76,
+  "lon": 89.74,
+  "watch": 84526.89,
+  "warning": 104269.2116,
+  "danger": 118423.30440000001
+ },
+ "gopalganj": {
+  "lat": 22.91,
+  "lon": 89.73,
+  "watch": 186.93,
+  "warning": 232.43479999999997,
+  "danger": 266.1292
+ },
+ "madaripur": {
+  "lat": 23.27,
+  "lon": 90.3,
+  "watch": 18.54,
+  "warning": 23.1,
+  "danger": 26.42
+ },
+ "jamalpur": {
+  "lat": 24.92,
+  "lon": 89.95,
+  "watch": 181.474,
+  "warning": 229.14,
+  "danger": 259.452
+ },
+ "sherpur": {
+  "lat": 24.92,
+  "lon": 89.92,
+  "watch": 181.474,
+  "warning": 229.14,
+  "danger": 259.452
+ },
+ "netrokona": {
+  "lat": 24.78,
+  "lon": 90.83,
+  "watch": 700.46,
+  "warning": 873.98,
+  "danger": 971.75
+ },
+ "chattogram": {
+  "lat": 22.26,
+  "lon": 91.78,
+  "watch": 967.28,
+  "warning": 1220.8,
+  "danger": 1509.08
+ },
+ "coxsbazar": {
+  "lat": 21.43,
+  "lon": 92.01,
+  "watch": 51.48,
+  "warning": 63.27,
+  "danger": 75.21
+ },
+ "cumilla": {
+  "lat": 23.46,
+  "lon": 91.08,
+  "watch": 121.46,
+  "warning": 157.12,
+  "danger": 180.43239999999997
+ },
+ "feni": {
+  "lat": 22.92,
+  "lon": 91.3,
+  "watch": 113.55,
+  "warning": 139.9812,
+  "danger": 160.81
+ },
+ "noakhali": {
+  "lat": 22.97,
+  "lon": 91.2,
+  "watch": 41.76,
+  "warning": 50.52,
+  "danger": 56.94
+ },
+ "lakshmipur": {
+  "lat": 22.84,
+  "lon": 90.94,
+  "watch": 20.23,
+  "warning": 24.47,
+  "danger": 27.6904
+ },
+ "chandpur": {
+  "lat": 23.13,
+  "lon": 90.57,
+  "watch": 93324.38,
+  "warning": 114024.02,
+  "danger": 128741.0372
+ },
+ "brahmanbaria": {
+  "lat": 24.06,
+  "lon": 91.01,
+  "watch": 7446.32,
+  "warning": 8748.84,
+  "danger": 9615.12
+ },
+ "rangamati": {
+  "lat": 22.55,
+  "lon": 92.08,
+  "watch": 697.23,
+  "warning": 870.2816,
+  "danger": 1107.4632000000001
+ },
+ "khagrachhari": {
+  "lat": 23.02,
+  "lon": 91.98,
+  "watch": 84.11,
+  "warning": 106.89,
+  "danger": 127.446
+ },
+ "bandarban": {
+  "lat": 22.2,
+  "lon": 92.12,
+  "watch": 163.44,
+  "warning": 204.59,
+  "danger": 233.41999999999996
+ },
+ "sylhet": {
+  "lat": 24.79,
+  "lon": 91.97,
+  "watch": 2551.7,
+  "warning": 2943.42,
+  "danger": 3262.7772000000004
+ },
+ "moulvibazar": {
+  "lat": 24.58,
+  "lon": 91.68,
+  "watch": 3039.89,
+  "warning": 3515.8975999999993,
+  "danger": 3968.3608000000004
+ },
+ "habiganj": {
+  "lat": 24.37,
+  "lon": 91.32,
+  "watch": 106.4,
+  "warning": 138.64,
+  "danger": 154.6
+ },
+ "sunamganj": {
+  "lat": 25.07,
+  "lon": 91.3,
+  "watch": 1505.61,
+  "warning": 1831.31,
+  "danger": 2040.74
+ },
+ "rajshahi": {
+  "lat": 24.27,
+  "lon": 88.7,
+  "watch": 37930.5,
+  "warning": 49772.71,
+  "danger": 55044.3128
+ },
+ "chapainawabganj": {
+  "lat": 24.5,
+  "lon": 88.27,
+  "watch": 703.69,
+  "warning": 985.28,
+  "danger": 1217.99
+ },
+ "naogaon": {
+  "lat": 24.71,
+  "lon": 88.84,
+  "watch": 39.27,
+  "warning": 49.0192,
+  "danger": 57.7108
+ },
+ "natore": {
+  "lat": 24.51,
+  "lon": 88.98,
+  "watch": 194.88,
+  "warning": 247.9812,
+  "danger": 290.07
+ },
+ "pabna": {
+  "lat": 23.91,
+  "lon": 89.24,
+  "watch": 38017.93,
+  "warning": 49887.45,
+  "danger": 55079.8
+ },
+ "sirajganj": {
+  "lat": 24.35,
+  "lon": 89.72,
+  "watch": 50349.08,
+  "warning": 65336.1496,
+  "danger": 76558.64
+ },
+ "bogura": {
+  "lat": 24.95,
+  "lon": 89.47,
+  "watch": 373.97,
+  "warning": 449.9864,
+  "danger": 516.2768
+ },
+ "joypurhat": {
+  "lat": 25.1,
+  "lon": 88.92,
+  "watch": 74.37400000000001,
+  "warning": 92.33,
+  "danger": 109.41
+ },
+ "rangpur": {
+  "lat": 25.75,
+  "lon": 89.35,
+  "watch": 2635.33,
+  "warning": 3705.81,
+  "danger": 4374.22
+ },
+ "kurigram": {
+  "lat": 25.46,
+  "lon": 89.68,
+  "watch": 46988.4,
+  "warning": 61375.22,
+  "danger": 71897.5512
+ },
+ "gaibandha": {
+  "lat": 25.23,
+  "lon": 89.63,
+  "watch": 49795.657999999996,
+  "warning": 65012.0,
+  "danger": 75856.78
+ },
+ "nilphamari": {
+  "lat": 25.93,
+  "lon": 88.96,
+  "watch": 54.34000000000001,
+  "warning": 62.97,
+  "danger": 69.5852
+ },
+ "dinajpur": {
+  "lat": 25.53,
+  "lon": 88.74,
+  "watch": 301.0,
+  "warning": 357.92,
+  "danger": 397.7652
+ },
+ "thakurgaon": {
+  "lat": 25.93,
+  "lon": 88.36,
+  "watch": 60.24,
+  "warning": 82.95,
+  "danger": 99.69
+ },
+ "panchagarh": {
+  "lat": 26.24,
+  "lon": 88.65,
+  "watch": 151.76,
+  "warning": 184.4188,
+  "danger": 210.07839999999996
+ },
+ "khulna": {
+  "lat": 22.82,
+  "lon": 89.45,
+  "watch": 52.7,
+  "warning": 65.07,
+  "danger": 75.03
+ },
+ "shariatpur": {
+  "lat": 23.31,
+  "lon": 90.45,
+  "watch": 84332.5,
+  "warning": 101858.12,
+  "danger": 116535.03640000001
+ },
+ "kishoreganj": {
+  "lat": 24.53,
+  "lon": 90.88,
+  "watch": 92.76,
+  "warning": 117.40639999999999,
+  "danger": 132.66
+ },
+ "tangail": {
+  "lat": 24.25,
+  "lon": 90.02,
+  "watch": 135.016,
+  "warning": 175.7558,
+  "danger": 195.79
+ },
+ "mymensingh": {
+  "lat": 24.65,
+  "lon": 90.41,
+  "watch": 278.64,
+  "warning": 333.97,
+  "danger": 362.08
+ },
+ "lalmonirhat": {
+  "lat": 25.82,
+  "lon": 89.35,
+  "watch": 2663.408,
+  "warning": 3629.78,
+  "danger": 4531.9672
+ },
+ "bagerhat": {
+  "lat": 22.75,
+  "lon": 89.79,
+  "watch": 18.28,
+  "warning": 22.7518,
+  "danger": 26.9852
+ },
+ "satkhira": {
+  "lat": 22.72,
+  "lon": 89.17,
+  "watch": 93.102,
+  "warning": 116.22,
+  "danger": 137.1616
+ },
+ "jashore": {
+  "lat": 23.07,
+  "lon": 89.31,
+  "watch": 83.92,
+  "warning": 104.2912,
+  "danger": 122.00220000000002
+ },
+ "narail": {
+  "lat": 23.07,
+  "lon": 89.61,
+  "watch": 85.5,
+  "warning": 106.89,
+  "danger": 126.4648
+ },
+ "magura": {
+  "lat": 23.49,
+  "lon": 89.42,
+  "watch": 169.22,
+  "warning": 223.58759999999998,
+  "danger": 285.42
+ },
+ "jhenaidah": {
+  "lat": 23.64,
+  "lon": 89.25,
+  "watch": 85.3,
+  "warning": 117.13259999999998,
+  "danger": 148.62
+ },
+ "kushtia": {
+  "lat": 23.9,
+  "lon": 89.22,
+  "watch": 39773.086,
+  "warning": 50509.3454,
+  "danger": 55011.3604
+ },
+ "chuadanga": {
+  "lat": 23.54,
+  "lon": 88.74,
+  "watch": 107.89,
+  "warning": 164.72440000000003,
+  "danger": 237.361
+ },
+ "meherpur": {
+  "lat": 23.66,
+  "lon": 88.63,
+  "watch": 46.012,
+  "warning": 67.2908,
+  "danger": 98.2916
+ },
+ "barishal": {
+  "lat": 22.7,
+  "lon": 90.45,
+  "watch": 30.888,
+  "warning": 45.601800000000004,
+  "danger": 61.2646
+ },
+ "bhola": {
+  "lat": 22.59,
+  "lon": 90.75,
+  "watch": 92681.98,
+  "warning": 110503.62620000001,
+  "danger": 127033.3668
+ },
+ "patuakhali": {
+  "lat": 22.36,
+  "lon": 90.23,
+  "watch": 54.08,
+  "warning": 69.47,
+  "danger": 89.20700000000001
+ },
+ "pirojpur": {
+  "lat": 22.58,
+  "lon": 89.97,
+  "watch": 340.98,
+  "warning": 441.59,
+  "danger": 508.1474
+ },
+ "jhalokathi": {
+  "lat": 22.54,
+  "lon": 90.2,
+  "watch": 44.92,
+  "warning": 58.7,
+  "danger": 71.1482
+ },
+ "barguna": {
+  "lat": 22.15,
+  "lon": 90.01,
+  "watch": 101.33,
+  "warning": 132.05,
+  "danger": 168.7934
+ }
+}

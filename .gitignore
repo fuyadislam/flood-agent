@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+sessions/
+*.pyc
+.DS_Store
+build.log
+nohup.out
+*.pkg
+alerts/

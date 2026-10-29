@@ -1,0 +1,4 @@
+strands-agents
+requests
+botocore[crt]
+bedrock-agentcore
