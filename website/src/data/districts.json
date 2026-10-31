@@ -1,0 +1,608 @@
+[
+  {
+    "key": "dhaka",
+    "en": "Dhaka",
+    "bn": "ঢাকা",
+    "lat": 23.81,
+    "lon": 90.41,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "gazipur",
+    "en": "Gazipur",
+    "bn": "গাজীপুর",
+    "lat": 24.0,
+    "lon": 90.42,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "narayanganj",
+    "en": "Narayanganj",
+    "bn": "নারায়ণগঞ্জ",
+    "lat": 23.62,
+    "lon": 90.5,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "narsingdi",
+    "en": "Narsingdi",
+    "bn": "নরসিংদী",
+    "lat": 23.92,
+    "lon": 90.72,
+    "division": "Dhaka",
+    "aliases": [
+      "narshingdi"
+    ]
+  },
+  {
+    "key": "manikganj",
+    "en": "Manikganj",
+    "bn": "মানিকগঞ্জ",
+    "lat": 23.86,
+    "lon": 90.0,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "munshiganj",
+    "en": "Munshiganj",
+    "bn": "মুন্সীগঞ্জ",
+    "lat": 23.54,
+    "lon": 90.53,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "faridpur",
+    "en": "Faridpur",
+    "bn": "ফরিদপুর",
+    "lat": 23.61,
+    "lon": 89.84,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "rajbari",
+    "en": "Rajbari",
+    "bn": "রাজবাড়ী",
+    "lat": 23.76,
+    "lon": 89.64,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "gopalganj",
+    "en": "Gopalganj",
+    "bn": "গোপালগঞ্জ",
+    "lat": 23.01,
+    "lon": 89.83,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "madaripur",
+    "en": "Madaripur",
+    "bn": "মাদারীপুর",
+    "lat": 23.17,
+    "lon": 90.2,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "shariatpur",
+    "en": "Shariatpur",
+    "bn": "শরীয়তপুর",
+    "lat": 23.21,
+    "lon": 90.35,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "kishoreganj",
+    "en": "Kishoreganj",
+    "bn": "কিশোরগঞ্জ",
+    "lat": 24.43,
+    "lon": 90.78,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "tangail",
+    "en": "Tangail",
+    "bn": "টাঙ্গাইল",
+    "lat": 24.25,
+    "lon": 89.92,
+    "division": "Dhaka",
+    "aliases": []
+  },
+  {
+    "key": "mymensingh",
+    "en": "Mymensingh",
+    "bn": "ময়মনসিংহ",
+    "lat": 24.75,
+    "lon": 90.41,
+    "division": "Mymensingh",
+    "aliases": []
+  },
+  {
+    "key": "jamalpur",
+    "en": "Jamalpur",
+    "bn": "জামালপুর",
+    "lat": 24.92,
+    "lon": 89.95,
+    "division": "Mymensingh",
+    "aliases": []
+  },
+  {
+    "key": "sherpur",
+    "en": "Sherpur",
+    "bn": "শেরপুর",
+    "lat": 25.02,
+    "lon": 90.02,
+    "division": "Mymensingh",
+    "aliases": []
+  },
+  {
+    "key": "netrokona",
+    "en": "Netrokona",
+    "bn": "নেত্রকোনা",
+    "lat": 24.88,
+    "lon": 90.73,
+    "division": "Mymensingh",
+    "aliases": [
+      "netrakona"
+    ]
+  },
+  {
+    "key": "chattogram",
+    "en": "Chattogram",
+    "bn": "চট্টগ্রাম",
+    "lat": 22.36,
+    "lon": 91.78,
+    "division": "Chattogram",
+    "aliases": [
+      "chittagong",
+      "ctg"
+    ]
+  },
+  {
+    "key": "coxsbazar",
+    "en": "Cox's Bazar",
+    "bn": "কক্সবাজার",
+    "lat": 21.43,
+    "lon": 92.01,
+    "division": "Chattogram",
+    "aliases": [
+      "cox's bazar",
+      "coxs bazar",
+      "cox bazar"
+    ]
+  },
+  {
+    "key": "cumilla",
+    "en": "Cumilla",
+    "bn": "কুমিল্লা",
+    "lat": 23.46,
+    "lon": 91.18,
+    "division": "Chattogram",
+    "aliases": [
+      "comilla"
+    ]
+  },
+  {
+    "key": "feni",
+    "en": "Feni",
+    "bn": "ফেনী",
+    "lat": 23.02,
+    "lon": 91.4,
+    "division": "Chattogram",
+    "aliases": []
+  },
+  {
+    "key": "noakhali",
+    "en": "Noakhali",
+    "bn": "নোয়াখালী",
+    "lat": 22.87,
+    "lon": 91.1,
+    "division": "Chattogram",
+    "aliases": []
+  },
+  {
+    "key": "lakshmipur",
+    "en": "Lakshmipur",
+    "bn": "লক্ষ্মীপুর",
+    "lat": 22.94,
+    "lon": 90.84,
+    "division": "Chattogram",
+    "aliases": [
+      "laxmipur"
+    ]
+  },
+  {
+    "key": "chandpur",
+    "en": "Chandpur",
+    "bn": "চাঁদপুর",
+    "lat": 23.23,
+    "lon": 90.67,
+    "division": "Chattogram",
+    "aliases": []
+  },
+  {
+    "key": "brahmanbaria",
+    "en": "Brahmanbaria",
+    "bn": "ব্রাহ্মণবাড়িয়া",
+    "lat": 23.96,
+    "lon": 91.11,
+    "division": "Chattogram",
+    "aliases": []
+  },
+  {
+    "key": "rangamati",
+    "en": "Rangamati",
+    "bn": "রাঙামাটি",
+    "lat": 22.65,
+    "lon": 92.18,
+    "division": "Chattogram",
+    "aliases": []
+  },
+  {
+    "key": "khagrachhari",
+    "en": "Khagrachhari",
+    "bn": "খাগড়াছড়ি",
+    "lat": 23.12,
+    "lon": 91.98,
+    "division": "Chattogram",
+    "aliases": [
+      "khagrachari"
+    ]
+  },
+  {
+    "key": "bandarban",
+    "en": "Bandarban",
+    "bn": "বান্দরবান",
+    "lat": 22.2,
+    "lon": 92.22,
+    "division": "Chattogram",
+    "aliases": []
+  },
+  {
+    "key": "sylhet",
+    "en": "Sylhet",
+    "bn": "সিলেট",
+    "lat": 24.89,
+    "lon": 91.87,
+    "division": "Sylhet",
+    "aliases": []
+  },
+  {
+    "key": "moulvibazar",
+    "en": "Moulvibazar",
+    "bn": "মৌলভীবাজার",
+    "lat": 24.48,
+    "lon": 91.78,
+    "division": "Sylhet",
+    "aliases": [
+      "maulvibazar"
+    ]
+  },
+  {
+    "key": "habiganj",
+    "en": "Habiganj",
+    "bn": "হবিগঞ্জ",
+    "lat": 24.37,
+    "lon": 91.42,
+    "division": "Sylhet",
+    "aliases": []
+  },
+  {
+    "key": "sunamganj",
+    "en": "Sunamganj",
+    "bn": "সুনামগঞ্জ",
+    "lat": 25.07,
+    "lon": 91.4,
+    "division": "Sylhet",
+    "aliases": []
+  },
+  {
+    "key": "rajshahi",
+    "en": "Rajshahi",
+    "bn": "রাজশাহী",
+    "lat": 24.37,
+    "lon": 88.6,
+    "division": "Rajshahi",
+    "aliases": []
+  },
+  {
+    "key": "chapainawabganj",
+    "en": "Chapainawabganj",
+    "bn": "চাঁপাইনবাবগঞ্জ",
+    "lat": 24.6,
+    "lon": 88.27,
+    "division": "Rajshahi",
+    "aliases": [
+      "nawabganj",
+      "chapai nawabganj"
+    ]
+  },
+  {
+    "key": "naogaon",
+    "en": "Naogaon",
+    "bn": "নওগাঁ",
+    "lat": 24.81,
+    "lon": 88.94,
+    "division": "Rajshahi",
+    "aliases": []
+  },
+  {
+    "key": "natore",
+    "en": "Natore",
+    "bn": "নাটোর",
+    "lat": 24.41,
+    "lon": 88.98,
+    "division": "Rajshahi",
+    "aliases": []
+  },
+  {
+    "key": "pabna",
+    "en": "Pabna",
+    "bn": "পাবনা",
+    "lat": 24.01,
+    "lon": 89.24,
+    "division": "Rajshahi",
+    "aliases": []
+  },
+  {
+    "key": "sirajganj",
+    "en": "Sirajganj",
+    "bn": "সিরাজগঞ্জ",
+    "lat": 24.45,
+    "lon": 89.72,
+    "division": "Rajshahi",
+    "aliases": []
+  },
+  {
+    "key": "bogura",
+    "en": "Bogura",
+    "bn": "বগুড়া",
+    "lat": 24.85,
+    "lon": 89.37,
+    "division": "Rajshahi",
+    "aliases": [
+      "bogra"
+    ]
+  },
+  {
+    "key": "joypurhat",
+    "en": "Joypurhat",
+    "bn": "জয়পুরহাট",
+    "lat": 25.1,
+    "lon": 89.02,
+    "division": "Rajshahi",
+    "aliases": []
+  },
+  {
+    "key": "rangpur",
+    "en": "Rangpur",
+    "bn": "রংপুর",
+    "lat": 25.75,
+    "lon": 89.25,
+    "division": "Rangpur",
+    "aliases": []
+  },
+  {
+    "key": "kurigram",
+    "en": "Kurigram",
+    "bn": "কুড়িগ্রাম",
+    "lat": 25.56,
+    "lon": 89.68,
+    "division": "Rangpur",
+    "aliases": []
+  },
+  {
+    "key": "gaibandha",
+    "en": "Gaibandha",
+    "bn": "গাইবান্ধা",
+    "lat": 25.33,
+    "lon": 89.53,
+    "division": "Rangpur",
+    "aliases": []
+  },
+  {
+    "key": "lalmonirhat",
+    "en": "Lalmonirhat",
+    "bn": "লালমনিরহাট",
+    "lat": 25.92,
+    "lon": 89.45,
+    "division": "Rangpur",
+    "aliases": []
+  },
+  {
+    "key": "nilphamari",
+    "en": "Nilphamari",
+    "bn": "নীলফামারী",
+    "lat": 25.93,
+    "lon": 88.86,
+    "division": "Rangpur",
+    "aliases": []
+  },
+  {
+    "key": "dinajpur",
+    "en": "Dinajpur",
+    "bn": "দিনাজপুর",
+    "lat": 25.63,
+    "lon": 88.64,
+    "division": "Rangpur",
+    "aliases": []
+  },
+  {
+    "key": "thakurgaon",
+    "en": "Thakurgaon",
+    "bn": "ঠাকুরগাঁও",
+    "lat": 26.03,
+    "lon": 88.46,
+    "division": "Rangpur",
+    "aliases": []
+  },
+  {
+    "key": "panchagarh",
+    "en": "Panchagarh",
+    "bn": "পঞ্চগড়",
+    "lat": 26.34,
+    "lon": 88.55,
+    "division": "Rangpur",
+    "aliases": []
+  },
+  {
+    "key": "khulna",
+    "en": "Khulna",
+    "bn": "খুলনা",
+    "lat": 22.82,
+    "lon": 89.55,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "bagerhat",
+    "en": "Bagerhat",
+    "bn": "বাগেরহাট",
+    "lat": 22.65,
+    "lon": 89.79,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "satkhira",
+    "en": "Satkhira",
+    "bn": "সাতক্ষীরা",
+    "lat": 22.72,
+    "lon": 89.07,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "jashore",
+    "en": "Jashore",
+    "bn": "যশোর",
+    "lat": 23.17,
+    "lon": 89.21,
+    "division": "Khulna",
+    "aliases": [
+      "jessore"
+    ]
+  },
+  {
+    "key": "narail",
+    "en": "Narail",
+    "bn": "নড়াইল",
+    "lat": 23.17,
+    "lon": 89.51,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "magura",
+    "en": "Magura",
+    "bn": "মাগুরা",
+    "lat": 23.49,
+    "lon": 89.42,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "jhenaidah",
+    "en": "Jhenaidah",
+    "bn": "ঝিনাইদহ",
+    "lat": 23.54,
+    "lon": 89.15,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "kushtia",
+    "en": "Kushtia",
+    "bn": "কুষ্টিয়া",
+    "lat": 23.9,
+    "lon": 89.12,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "chuadanga",
+    "en": "Chuadanga",
+    "bn": "চুয়াডাঙ্গা",
+    "lat": 23.64,
+    "lon": 88.84,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "meherpur",
+    "en": "Meherpur",
+    "bn": "মেহেরপুর",
+    "lat": 23.76,
+    "lon": 88.63,
+    "division": "Khulna",
+    "aliases": []
+  },
+  {
+    "key": "barishal",
+    "en": "Barishal",
+    "bn": "বরিশাল",
+    "lat": 22.7,
+    "lon": 90.35,
+    "division": "Barishal",
+    "aliases": [
+      "barisal"
+    ]
+  },
+  {
+    "key": "bhola",
+    "en": "Bhola",
+    "bn": "ভোলা",
+    "lat": 22.69,
+    "lon": 90.65,
+    "division": "Barishal",
+    "aliases": []
+  },
+  {
+    "key": "patuakhali",
+    "en": "Patuakhali",
+    "bn": "পটুয়াখালী",
+    "lat": 22.36,
+    "lon": 90.33,
+    "division": "Barishal",
+    "aliases": []
+  },
+  {
+    "key": "pirojpur",
+    "en": "Pirojpur",
+    "bn": "পিরোজপুর",
+    "lat": 22.58,
+    "lon": 89.97,
+    "division": "Barishal",
+    "aliases": []
+  },
+  {
+    "key": "jhalokathi",
+    "en": "Jhalokathi",
+    "bn": "ঝালকাঠি",
+    "lat": 22.64,
+    "lon": 90.2,
+    "division": "Barishal",
+    "aliases": [
+      "jhalokati"
+    ]
+  },
+  {
+    "key": "barguna",
+    "en": "Barguna",
+    "bn": "বরগুনা",
+    "lat": 22.15,
+    "lon": 90.11,
+    "division": "Barishal",
+    "aliases": []
+  }
+]

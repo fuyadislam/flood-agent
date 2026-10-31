@@ -1,42 +1,137 @@
 {
- "generated": "2026-10-29 03:21 UTC",
+ "generated": "2026-10-31 01:43 UTC",
  "districts": {
-  "pirojpur": {
-   "level": "WATCH",
-   "peak_day": "2026-11-08",
+  "narayanganj": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "narsingdi": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "munshiganj": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "faridpur": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "rajbari": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "shariatpur": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "netrokona": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "coxsbazar": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "lakshmipur": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "chandpur": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "brahmanbaria": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
    "simulated": false
   },
   "rangamati": {
    "level": "NORMAL",
-   "peak_day": "2026-10-29",
+   "peak_day": "2026-10-31",
    "simulated": false
   },
-  "natore": {
-   "level": "NORMAL",
-   "peak_day": "2026-10-30",
-   "simulated": false
-  },
-  "joypurhat": {
+  "khagrachhari": {
    "level": "NORMAL",
    "peak_day": "2026-10-31",
    "simulated": false
   },
-  "nilphamari": {
+  "bandarban": {
    "level": "NORMAL",
    "peak_day": "2026-10-31",
    "simulated": false
   },
-  "panchagarh": {
+  "sylhet": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "moulvibazar": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "habiganj": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "sunamganj": {
    "level": "NORMAL",
    "peak_day": "2026-10-31",
    "simulated": false
   },
   "naogaon": {
    "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "khulna": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "bhola": {
+   "level": "NORMAL",
+   "peak_day": "2026-10-31",
+   "simulated": false
+  },
+  "madaripur": {
+   "level": "NORMAL",
    "peak_day": "2026-11-01",
    "simulated": false
   },
-  "bogura": {
+  "jamalpur": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "sherpur": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "natore": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "joypurhat": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "nilphamari": {
    "level": "NORMAL",
    "peak_day": "2026-11-01",
    "simulated": false
@@ -46,42 +141,127 @@
    "peak_day": "2026-11-01",
    "simulated": false
   },
-  "thakurgaon": {
+  "bagerhat": {
    "level": "NORMAL",
    "peak_day": "2026-11-01",
    "simulated": false
   },
-  "chapainawabganj": {
+  "jashore": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "narail": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "magura": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "jhenaidah": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "meherpur": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-01",
+   "simulated": false
+  },
+  "dhaka": {
    "level": "NORMAL",
    "peak_day": "2026-11-02",
    "simulated": false
   },
-  "rangpur": {
+  "gazipur": {
    "level": "NORMAL",
    "peak_day": "2026-11-02",
    "simulated": false
   },
-  "lalmonirhat": {
+  "manikganj": {
    "level": "NORMAL",
    "peak_day": "2026-11-02",
    "simulated": false
   },
-  "bagerhat": {
+  "gopalganj": {
    "level": "NORMAL",
-   "peak_day": "2026-11-03",
+   "peak_day": "2026-11-02",
+   "simulated": false
+  },
+  "tangail": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-02",
+   "simulated": false
+  },
+  "mymensingh": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-02",
+   "simulated": false
+  },
+  "bogura": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-02",
+   "simulated": false
+  },
+  "thakurgaon": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-02",
+   "simulated": false
+  },
+  "panchagarh": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-02",
+   "simulated": false
+  },
+  "satkhira": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-02",
+   "simulated": false
+  },
+  "chuadanga": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-02",
    "simulated": false
   },
   "barguna": {
    "level": "NORMAL",
+   "peak_day": "2026-11-02",
+   "simulated": false
+  },
+  "chapainawabganj": {
+   "level": "NORMAL",
    "peak_day": "2026-11-03",
    "simulated": false
   },
-  "cumilla": {
+  "rangpur": {
    "level": "NORMAL",
-   "peak_day": "2026-11-04",
+   "peak_day": "2026-11-03",
    "simulated": false
   },
-  "patuakhali": {
+  "kurigram": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-03",
+   "simulated": false
+  },
+  "gaibandha": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-03",
+   "simulated": false
+  },
+  "lalmonirhat": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-03",
+   "simulated": false
+  },
+  "pirojpur": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-03",
+   "simulated": false
+  },
+  "sirajganj": {
    "level": "NORMAL",
    "peak_day": "2026-11-04",
    "simulated": false
@@ -96,229 +276,49 @@
    "peak_day": "2026-11-05",
    "simulated": false
   },
-  "jhenaidah": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-05",
-   "simulated": false
-  },
   "kushtia": {
    "level": "NORMAL",
    "peak_day": "2026-11-05",
    "simulated": false
   },
-  "chuadanga": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-05",
-   "simulated": false
-  },
-  "meherpur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-05",
-   "simulated": false
-  },
-  "jhalokathi": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-05",
-   "simulated": false
-  },
-  "mymensingh": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-06",
-   "simulated": false
-  },
-  "jamalpur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-06",
-   "simulated": false
-  },
-  "sherpur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-06",
-   "simulated": false
-  },
-  "netrokona": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-06",
-   "simulated": false
-  },
-  "sylhet": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-06",
-   "simulated": false
-  },
-  "moulvibazar": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-06",
-   "simulated": false
-  },
-  "habiganj": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-06",
-   "simulated": false
-  },
-  "sunamganj": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-06",
-   "simulated": false
-  },
-  "dhaka": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "gazipur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "narayanganj": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "narsingdi": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "gopalganj": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "brahmanbaria": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "kurigram": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "gaibandha": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "khulna": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "satkhira": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "jashore": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "magura": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-07",
-   "simulated": false
-  },
-  "munshiganj": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-08",
-   "simulated": false
-  },
-  "madaripur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-08",
-   "simulated": false
-  },
-  "sirajganj": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-08",
-   "simulated": false
-  },
-  "narail": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-08",
-   "simulated": false
-  },
-  "barishal": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-08",
-   "simulated": false
-  },
-  "faridpur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-09",
-   "simulated": false
-  },
-  "rajbari": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-09",
-   "simulated": false
-  },
-  "shariatpur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-09",
-   "simulated": false
-  },
-  "tangail": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-09",
-   "simulated": false
-  },
-  "lakshmipur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-09",
-   "simulated": false
-  },
-  "chandpur": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-09",
-   "simulated": false
-  },
-  "manikganj": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-10",
-   "simulated": false
-  },
   "kishoreganj": {
    "level": "NORMAL",
-   "peak_day": "2026-11-10",
-   "simulated": false
-  },
-  "bhola": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-10",
+   "peak_day": "2026-11-09",
    "simulated": false
   },
   "chattogram": {
    "level": "NORMAL",
-   "peak_day": "2026-11-12",
+   "peak_day": "2026-11-13",
+   "simulated": false
+  },
+  "cumilla": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-14",
    "simulated": false
   },
   "feni": {
    "level": "NORMAL",
-   "peak_day": "2026-11-12",
-   "simulated": false
-  },
-  "khagrachhari": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-12",
-   "simulated": false
-  },
-  "coxsbazar": {
-   "level": "NORMAL",
-   "peak_day": "2026-11-13",
+   "peak_day": "2026-11-15",
    "simulated": false
   },
   "noakhali": {
    "level": "NORMAL",
-   "peak_day": "2026-11-13",
+   "peak_day": "2026-11-15",
    "simulated": false
   },
-  "bandarban": {
+  "barishal": {
    "level": "NORMAL",
-   "peak_day": "2026-11-13",
+   "peak_day": "2026-11-15",
+   "simulated": false
+  },
+  "patuakhali": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-15",
+   "simulated": false
+  },
+  "jhalokathi": {
+   "level": "NORMAL",
+   "peak_day": "2026-11-15",
    "simulated": false
   }
  }
