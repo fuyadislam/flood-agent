@@ -5,6 +5,13 @@ BonnaSathi ("flood companion") is an AI agent built with the **Strands Agents SD
 districts of Bangladesh** and turns them into checked guidance in **Bengali and English**,
 for families and for the local volunteers who read warnings out on village loudspeakers.
 
+## Demo video
+
+[![BonnaSathi demo video](https://img.youtube.com/vi/KjZoYMzo4Kk/maxresdefault.jpg)](https://youtu.be/KjZoYMzo4Kk)
+
+Watch on YouTube: https://youtu.be/KjZoYMzo4Kk
+Live website: https://fuyadislam.github.io/flood-agent/
+
 ## The problem
 
 Every monsoon, the Brahmaputra-Jamuna, Padma and Meghna flood large parts of Bangladesh.

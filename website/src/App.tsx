@@ -7,7 +7,7 @@ import { useLiveForecast } from './live';
 import type { Language, RiskLevel } from './types';
 
 const REPO = 'https://github.com/fuyadislam/flood-agent';
-const VIDEO_EMBED = ''; // paste your YouTube embed link here, e.g. https://www.youtube.com/embed/VIDEO_ID
+const VIDEO_EMBED = 'https://www.youtube.com/embed/KjZoYMzo4Kk'; // paste your YouTube embed link here, e.g. https://www.youtube.com/embed/VIDEO_ID
 type DrillLevel = 'WARNING' | 'DANGER' | null;
 const stages: RiskLevel[] = ['NORMAL', 'WATCH', 'WARNING', 'DANGER'];
 
